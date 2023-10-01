@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-01T17:48:28.986Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.47" etag="LLdBUHDglh7mYzOjJboE" version="22.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-01T17:49:22.924Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.47" etag="3a5wGBuQVFpR6WU4_0Oj" version="22.0.0" type="github">
   <diagram name="Strona-1" id="3vI-Z93XGPY2M-o-T-1S">
     <mxGraphModel dx="1386" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -97,6 +97,21 @@
         </mxCell>
         <mxCell id="5Ggx0vt6isy3eeLft-i8-55" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.65;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=none;strokeColor=#FF6392;fontColor=default;" edge="1" parent="1" source="5Ggx0vt6isy3eeLft-i8-51" target="5Ggx0vt6isy3eeLft-i8-42">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Ggx0vt6isy3eeLft-i8-60" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FF6392;fontColor=#5AA9E6;fillColor=#FFE45E;" edge="1" parent="1" source="5Ggx0vt6isy3eeLft-i8-56" target="5Ggx0vt6isy3eeLft-i8-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Ggx0vt6isy3eeLft-i8-56" value="Ingridients" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="480" width="160" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="5Ggx0vt6isy3eeLft-i8-57" value="- type: string" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#5AA9E6;rounded=1;" vertex="1" parent="5Ggx0vt6isy3eeLft-i8-56">
+          <mxGeometry y="26" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="5Ggx0vt6isy3eeLft-i8-58" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=#FF6392;labelBackgroundColor=none;fontColor=#5AA9E6;rounded=1;" vertex="1" parent="5Ggx0vt6isy3eeLft-i8-56">
+          <mxGeometry y="52" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="5Ggx0vt6isy3eeLft-i8-59" value="+ spill(): void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#5AA9E6;rounded=1;" vertex="1" parent="5Ggx0vt6isy3eeLft-i8-56">
+          <mxGeometry y="60" width="160" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
